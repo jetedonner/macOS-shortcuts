@@ -7,5 +7,5 @@ Here you'll find some ready macOS shortcuts (for macOS Shortcuts.app) that I cre
 
 ## Extract audio from video
 - [Extract audio from movie mp4 file and save as mp3 file (V 1.0)](../../../macOS-shortcuts/tree/main/Extract-MP3-from-Movie/) - 2026-02-16
-- Extract MP3 from various Video formats (V 2.0) - 2026-02-17
+- [Extract MP3 from various Video formats (V 2.0)](../../../macOS-shortcuts/tree/main/Extract-MP3-from-Movie/) - 2026-02-17
 
