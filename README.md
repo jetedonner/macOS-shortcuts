@@ -4,7 +4,7 @@ Here you'll find some ready macOS shortcuts (for macOS Shortcuts.app) that I cre
 ## Translate texts
 - [Translate selected text from chrome and say the translation](../../../macOS-shortcuts/tree/main/Translate-And-Say-Text-Chrome/) - 2026-01-08
 
-- [Translate selected text in any language from any app and say the translation](../../../macOS-shortcuts/tree/main/Translate-And-Speak-Any-Lang-From-Any-App/) (in german - you can change this as you wish) - 2026-01-18
+- [Translate selected text in any language from any app and say the translation](../../../macOS-shortcuts/tree/main/Translate-And-Speak-Any-Lang-From-Any-App/) - 2026-01-18
 
 ## Extract audio from video
 - [Extract audio from movie mp4 file and save as mp3 file (V 1.0)](../../../macOS-shortcuts/tree/main/Extract-MP3-from-Movie/) - 2026-02-16
